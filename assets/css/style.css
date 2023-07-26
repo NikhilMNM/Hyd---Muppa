@@ -129,6 +129,9 @@ button.btn {
 	z-index: 1020;
 	background-color: rgba(34, 34, 34, 0.95);
 }
+.icons{
+	color: #000;
+}
 .icons:hover{
 	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 	border-radius: 10px;
@@ -142,10 +145,13 @@ button.btn {
 	margin: 10px;
 	padding: 18px;
     height: 74px;
+	color: #000;
+	border-color: #000;
 }
 .table-bordered:hover{
 	background-color: #ee8162;
 	color: #fff;
+	border-color: #ee8162;
 }
 .amen p:hover{
 	color: #fff;
